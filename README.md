@@ -36,10 +36,11 @@ Você pode usar esse comando para pegar informações sobre um anime!
 # Comandos para esconder os canais!
 Há diversos comandos para essa função, então essa sessão ficará separada do resto.
 
+Todos os comandos aqui são **apenas** para o canal de bots.
+
 ## ocultar
 Esse comando irá exibir uma lista de todos os canais ocultos por você usando o bot.
 
-**Apenas no canal de bot?** Sim.
 
 **Uso:**  `c!ocultar <Marque o Canal>` 
 ### Restrições
@@ -49,13 +50,10 @@ Esse comando irá exibir uma lista de todos os canais ocultos por você usando o
 ## ocultos
 Esse comando irá exibir uma lista de todos os canais ocultos por você usando o bot.
 
-**Apenas no canal de bot?** Sim.
-
 **Uso:**  `c!ocultos` 
 
 ## exibir
 Esse comando é para voltar a exibir um canal previamente ocultado usando o bot.
-**Apenas no canal de bot?** Sim.
 
 **Uso:**  `c!exibir <Nome do Canal>` 
 
