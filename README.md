@@ -3,8 +3,9 @@
 Este é um pequeno guia de como usar a Chii-kara, qualquer coisa tire seus dúvidas com algum moderador.
 ### Atalhos:
  - [Detalhes](#Detalhes)
- - [Comandos - Gerais](#Detalhes)
- - [Comandos - Canais](#Detalhes)
+ - [Comandos - Gerais](#comandos---gerais)
+ - [Comandos - Canais](#comandos-para-esconder-os-canais)
+ - [TODO](#TODO)
 
 ## Detalhes
 
@@ -60,3 +61,12 @@ Esse comando é para voltar a exibir um canal previamente ocultado usando o bot.
 
 > Você só pode exibir canais no qual ocultou com o bot, e deve usar o exato nome do canal, você pode ver usando o [c!ocultos](#ocultos).
 
+# TODO
+Aqui é uma lista de ~~procrastinação~~ progresso do Davi na produção das coisas do bot.
+
+## Em andamento:
+ - **c!league** - Comando para informações do League of Legends
+ - **Comandos de música!** Isso mesmo, a Chiikara também vai poder tocar músicas nos canais de voz em breve.
+ - **Segredinho!** Em breve vocês vão entender.
+## Futuros:
+ - **N/A**
