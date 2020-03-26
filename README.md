@@ -7,7 +7,7 @@ Este é um pequeno guia de como usar a Chii-kara, qualquer coisa tire seus dúvi
  - [Comandos - Canais](#comandos-para-esconder-os-canais)
  - [TODO](#TODO)
 
-## Detalhes
+# Detalhes
 
 Alguns comandos possuem **variáveis**, nessas você coloca algum valor para interagir com o bot, variáveis são representadas aqui entre **<>**, por exemplo:
 
