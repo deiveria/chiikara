@@ -33,6 +33,14 @@ Você pode usar esse comando para pegar informações sobre um anime!
 
 **Uso:** `c!anime <Nome do Anime>`
 
+## avatar
+Apenas pra poder ver o avatar de alguém com uma qualidade maior, o padrão aqui é 1024px de resolução
+
+**Apenas no canal de bot?** Sim.
+
+**Uso:** `c!avatar <Nick/ID/Apelido/Menção do usuário>`
+
+
 # Comandos para esconder os canais!
 Há diversos comandos para essa função, então essa sessão ficará separada do resto.
 
