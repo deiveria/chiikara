@@ -44,7 +44,7 @@ Esse comando irá exibir uma lista de todos os canais ocultos por você usando o
 
 **Uso:**  `c!ocultar <Marque o Canal>` 
 ### Restrições
- - Você só pode ocultar canais no qual você tem permissão para mandar e ler mensagens.
+ - Você não pode ocultar alguns canais que o servidor escolher, como o #geral por exemplo.
  - Você não pode ocultar o canal de bots.
 
 ## ocultos
@@ -57,14 +57,13 @@ Esse comando é para voltar a exibir um canal previamente ocultado usando o bot.
 
 **Uso:**  `c!exibir <Nome do Canal>` 
 
-> Você só pode exibir canais no qual ocultou com o bot, e deve usar o exato nome do canal, você pode ver usando o [c!ocultos](#ocultos).
+> Você só pode exibir canais no qual ocultou com o bot, e deve usar o exato nome do canal, você pode ver usando o [c!ocultos](#ocultos)
 
 # TODO
 Aqui é uma lista de ~~procrastinação~~ progresso do Davi na produção das coisas do bot.
 
 ## Em andamento:
- - **c!league** - Comando para informações do League of Legends
- - **Comandos de música!** Isso mesmo, a Chiikara também vai poder tocar músicas nos canais de voz em breve.
+  - **Comandos de música!** Isso mesmo, a Chiikara também vai poder tocar músicas nos canais de voz em breve.
  - **Segredinho!** Em breve vocês vão entender.
 ## Futuros:
  - **N/A**
