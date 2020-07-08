@@ -38,11 +38,13 @@ Há diversos comandos para essa função, então essa sessão ficará separada d
 
 Todos os comandos aqui são **apenas** para o canal de bots.
 
+Com a nova atualização você pode esconder e exibir mais de um canal de uma vez!
+
 ## ocultar
 Esse comando irá exibir uma lista de todos os canais ocultos por você usando o bot.
 
 
-**Uso:**  `c!ocultar <Marque o Canal>` 
+**Uso:**  `c!ocultar <Marque os canais, separados por um espaço>` 
 ### Restrições
  - Você não pode ocultar alguns canais que o servidor escolher, como o #geral por exemplo.
  - Você não pode ocultar o canal de bots.
@@ -55,7 +57,7 @@ Esse comando irá exibir uma lista de todos os canais ocultos por você usando o
 ## exibir
 Esse comando é para voltar a exibir um canal previamente ocultado usando o bot.
 
-**Uso:**  `c!exibir <Nome do Canal>` 
+**Uso:**  `c!exibir <Nome dos canais, separados por um espaço>` 
 
 > Você só pode exibir canais no qual ocultou com o bot, e deve usar o exato nome do canal, você pode ver usando o [c!ocultos](#ocultos)
 
