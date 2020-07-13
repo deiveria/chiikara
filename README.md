@@ -32,6 +32,18 @@ Você pode usar esse comando para pegar informações sobre um anime!
 **Apenas no canal de bot?** Não.
 
 **Uso:** `c!anime <Nome do Anime>`
+# anime?
+
+Viu um anime no chat e não sabe qual é? Use c!anime?
+Esse comando vai buscar a primeira imagem que encontrar e buscar na API do trace.moe.
+
+Primeiro ele vai buscar por uma imagem contida na mensagem em que você usa o comando, podendo ser um link ou uma imagem embutida.
+Caso não encontre, eles vai buscar pelas últimas 20 mensagens do canal por uma imagem.
+
+**Apenas no canal de bot?** Não.
+
+**Uso:** `c!anime? <link da imagem ou envie a imagem junto com o comando>`
+
 
 ## avatar
 Apenas pra poder ver o avatar de alguém com uma qualidade maior, o padrão aqui é 1024px de resolução
