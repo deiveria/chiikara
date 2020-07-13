@@ -32,7 +32,7 @@ Você pode usar esse comando para pegar informações sobre um anime!
 **Apenas no canal de bot?** Não.
 
 **Uso:** `c!anime <Nome do Anime>`
-# anime?
+## anime?
 
 Viu um anime no chat e não sabe qual é? Use c!anime?
 Esse comando vai buscar a primeira imagem que encontrar e buscar na API do trace.moe.
